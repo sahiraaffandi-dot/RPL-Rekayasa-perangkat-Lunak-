@@ -1,0 +1,67 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="yQ6mgd4QvmbP04kjaxat">
+    <mxGraphModel dx="1331" dy="680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dkdaXaXBjfmHET1ZTmN--12" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Pemilik" vertex="1">
+          <mxGeometry height="60" width="40" x="790" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="dkdaXaXBjfmHET1ZTmN--16" parent="1" style="swimlane;startSize=0;" value="" vertex="1">
+          <mxGeometry height="640" width="660" x="95" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="dkdaXaXBjfmHET1ZTmN--23" edge="1" parent="dkdaXaXBjfmHET1ZTmN--16" source="dkdaXaXBjfmHET1ZTmN--21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="dkdaXaXBjfmHET1ZTmN--22" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dkdaXaXBjfmHET1ZTmN--21" parent="dkdaXaXBjfmHET1ZTmN--16" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Melihat Katalog Produk" vertex="1">
+          <mxGeometry height="40" width="155" x="232.5" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="dkdaXaXBjfmHET1ZTmN--25" edge="1" parent="dkdaXaXBjfmHET1ZTmN--16" source="dkdaXaXBjfmHET1ZTmN--22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="dkdaXaXBjfmHET1ZTmN--24" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dkdaXaXBjfmHET1ZTmN--22" parent="dkdaXaXBjfmHET1ZTmN--16" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Mengelola Keranjang&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="155" x="232.5" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="dkdaXaXBjfmHET1ZTmN--24" parent="dkdaXaXBjfmHET1ZTmN--16" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="&lt;div&gt;Mengisi Data Pelanggan&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="155" x="232.5" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="dkdaXaXBjfmHET1ZTmN--33" edge="1" parent="dkdaXaXBjfmHET1ZTmN--16" source="dkdaXaXBjfmHET1ZTmN--28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="dkdaXaXBjfmHET1ZTmN--32" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dkdaXaXBjfmHET1ZTmN--28" parent="dkdaXaXBjfmHET1ZTmN--16" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="&lt;div&gt;Chekout &amp;amp; PreeOrder&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="155" x="232.5" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="dkdaXaXBjfmHET1ZTmN--31" edge="1" parent="dkdaXaXBjfmHET1ZTmN--16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="335" y="388" />
+              <mxPoint x="335" y="388" />
+            </Array>
+            <mxPoint x="335" y="370" as="sourcePoint" />
+            <mxPoint x="335" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dkdaXaXBjfmHET1ZTmN--56" connectable="0" parent="dkdaXaXBjfmHET1ZTmN--31" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="include" vertex="1">
+          <mxGeometry relative="1" x="-0.0397" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dkdaXaXBjfmHET1ZTmN--32" parent="dkdaXaXBjfmHET1ZTmN--16" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Mengalihkan Ke whatsApp" vertex="1">
+          <mxGeometry height="40" width="155" x="232.5" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="dkdaXaXBjfmHET1ZTmN--18" parent="dkdaXaXBjfmHET1ZTmN--16" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Sistem informasi HiraKItchen" vertex="1">
+          <mxGeometry height="30" width="280" x="170" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="dkdaXaXBjfmHET1ZTmN--40" edge="1" parent="1" source="dkdaXaXBjfmHET1ZTmN--32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="dkdaXaXBjfmHET1ZTmN--12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dkdaXaXBjfmHET1ZTmN--60" edge="1" parent="1" source="dkdaXaXBjfmHET1ZTmN--11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="dkdaXaXBjfmHET1ZTmN--21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dkdaXaXBjfmHET1ZTmN--11" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Pelanggan" vertex="1">
+          <mxGeometry height="60" width="30" x="40" y="350" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
